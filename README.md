@@ -2,4 +2,5 @@
 
 ### This is a compilation of awesome VUE components.
 
-- Header : http://matthew.wagerfield.com/flat-surface-shader/
+- Header : https://ashleylv.github.io/vue-quick-menu/index.html#/
+- 2D Animation : http://matthew.wagerfield.com/flat-surface-shader/
